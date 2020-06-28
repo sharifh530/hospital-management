@@ -1,0 +1,13 @@
+.navbar {
+	    margin-bottom: 0;
+}
+.navbar-inverse {
+    background-color: #0b394c;
+    border-color: #504a4a;
+    }
+
+    .form-group {
+    margin-bottom: 15px;
+    padding-top: 14px;
+    padding-bottom: 30px;
+}
